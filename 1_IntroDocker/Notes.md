@@ -12,4 +12,3 @@ Can run apps on specific versions of containers. Having code run inside a contai
 Docker containers are most often compared to virtual machines. They are completely different. Docker sits on top of VM, focuses more on application. Docker shares kernel w/ VM OS. 
 
 ## Docker Architecture
-Test changes
